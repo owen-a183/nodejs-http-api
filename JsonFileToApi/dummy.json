@@ -1,0 +1,26 @@
+[
+    {
+      "foodName": "Burger",
+      "foodDescription": "Unhealthy burger"
+    },
+    {
+        "foodName": "Big Burger",
+        "foodDescription": "Very unhealthy burger"
+    },
+    {
+        "foodName": "Burglar",
+        "foodDescription": "This is not a burger"
+    },
+    {
+        "foodName": "Krabby Patty",
+        "foodDescription": "Burger of the sea"
+    },
+    {
+        "foodName": "Lettuce",
+        "foodDescription": "The last thing you'd want in your Burger King Burger is someone's foot fungus."
+    },
+    {
+        "foodName": "Fried rice",
+        "foodDescription": "This is also not a burger"
+    }
+]    
